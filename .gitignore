@@ -1,0 +1,20 @@
+# Mac OS
+.DS_Store
+
+# node
+*.log
+log
+node_modules
+
+#webstorm
+.idea
+
+#vscode
+.vscode
+
+#local
+local
+
+# build
+dist
+build
