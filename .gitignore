@@ -17,4 +17,4 @@ local
 
 # build
 dist
-build
+public
